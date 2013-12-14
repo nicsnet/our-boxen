@@ -88,9 +88,18 @@ node default {
     target => $boxen::config::repodir
   }
 
-  # custom modules
+  ### custom modules ###
+
   include skype
   include chrome
   include chrome::canary
+  include iterm2::stable
+  include iterm2::colors::solarized_light
+  include iterm2::colors::solarized_dark
+  include vim
+  include ctags
+  include janus
+  include mongodb
+  include postgresql
 
 }
