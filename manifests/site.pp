@@ -90,5 +90,7 @@ node default {
 
   # custom modules
   include skype
+  include chrome
+  include chrome::canary
 
 }

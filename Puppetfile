@@ -57,3 +57,4 @@ github "xquartz",    "1.1.0"
 # https://github.com/boxen.
 
 github "skype",      "1.0.7"
+github "chrome",     "1.1.2"
