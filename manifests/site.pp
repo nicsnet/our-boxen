@@ -100,5 +100,6 @@ node default {
   include janus
   include mongodb
   include postgresql
+  include steam
 
 }

@@ -65,4 +65,5 @@ github "macvim",     "1.0.0"
 github "ctags",      "1.0.0"
 github "janus",      "1.0.0", :repo => "paulcollinsiii/puppet-janus"
 github "sysctl",     "1.0.0"
+github "steam",      "1.0.1"
 
