@@ -114,9 +114,9 @@ GITHUBTARBALL
     sudo (1.0.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-vim
+  remote: boxen/puppet-sysctl
   specs:
-    vim (1.0.5)
+    sysctl (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-xquartz
@@ -165,6 +165,6 @@ DEPENDENCIES
   skype (= 1.0.7)
   stdlib (= 4.1.0)
   sudo (= 1.0.0)
-  vim (= 1.0.5)
+  sysctl (= 1.0.0)
   xquartz (= 1.1.0)
 

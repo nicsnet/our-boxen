@@ -96,7 +96,6 @@ node default {
   include iterm2::stable
   include iterm2::colors::solarized_light
   include iterm2::colors::solarized_dark
-  include vim
   include ctags
   include janus
   include mongodb
