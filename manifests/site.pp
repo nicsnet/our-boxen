@@ -102,6 +102,8 @@ node default {
   include postgresql
   include steam
   include adium
+  include keyremap4macbook
+  include spotify
 
   homebrew::tap {
     'nviennot/tmate':

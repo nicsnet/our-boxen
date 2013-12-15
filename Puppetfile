@@ -56,6 +56,7 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
+github "keyremap4macbook", "1.2.1"
 github "skype",      "1.0.7"
 github "chrome",     "1.1.2"
 github "iterm2",     "1.0.6"
@@ -67,3 +68,5 @@ github "janus",      "1.0.0", :repo => "paulcollinsiii/puppet-janus"
 github "sysctl",     "1.0.0"
 github "steam",      "1.0.1"
 github "adium",      "1.3.0"
+github "spotify",    "1.0.1"
+
