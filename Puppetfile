@@ -71,4 +71,5 @@ github "steam",      "1.0.1"
 github "adium",      "1.3.0"
 github "mumble",     "1.0.5"
 github "spotify",    "1.0.1"
+github "tmux",       "1.0.2"
 

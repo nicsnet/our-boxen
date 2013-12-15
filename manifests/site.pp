@@ -104,6 +104,7 @@ node default {
   include mumble
   include keyremap4macbook
   include spotify
+  include tmux
 
   homebrew::tap {
     'nviennot/tmate':
