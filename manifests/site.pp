@@ -101,6 +101,7 @@ node default {
   include mongodb
   include postgresql
   include steam
+  include adium
 
   homebrew::tap {
     'nviennot/tmate':
