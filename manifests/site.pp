@@ -94,8 +94,6 @@ node default {
   include chrome
   include chrome::canary
   include iterm2::stable
-  include iterm2::colors::solarized_light
-  include iterm2::colors::solarized_dark
   include ctags
   include janus
   include mongodb
