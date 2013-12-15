@@ -99,6 +99,7 @@ node default {
   include ctags
   include janus
   include mongodb
+  include redis
   include postgresql
   include steam
   include adium
