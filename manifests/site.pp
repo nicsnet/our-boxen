@@ -101,6 +101,7 @@ node default {
   include postgresql
   include steam
   include adium
+  include mumble
   include keyremap4macbook
   include spotify
 
