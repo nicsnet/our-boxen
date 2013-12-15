@@ -102,4 +102,10 @@ node default {
   include postgresql
   include steam
 
+  homebrew::tap {
+    'nviennot/tmate':
+    } -> package { 'tmate':
+    ensure => present,
+  }
+
 }
