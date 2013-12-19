@@ -57,6 +57,7 @@ github "xquartz",    "1.1.0"
 # https://github.com/boxen.
 
 github "keyremap4macbook", "1.2.1"
+github "thunderbird",      "1.1.0"
 github "skype",      "1.0.7"
 github "chrome",     "1.1.2"
 github "iterm2",     "1.0.6"
@@ -72,4 +73,3 @@ github "adium",      "1.3.0"
 github "mumble",     "1.0.5"
 github "spotify",    "1.0.1"
 github "tmux",       "1.0.2"
-
