@@ -109,6 +109,11 @@ GITHUBTARBALL
     postgresql (2.2.2)
 
 GITHUBTARBALL
+  remote: boxen/puppet-qt
+  specs:
+    qt (1.2.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-redis
   specs:
     redis (2.1.0)
@@ -203,6 +208,7 @@ DEPENDENCIES
   phantomjs (= 2.0.2)
   pkgconfig (= 1.0.0)
   postgresql (= 2.2.2)
+  qt (= 1.2.1)
   redis (= 2.1.0)
   repository (= 2.2.0)
   ruby (= 6.7.2)

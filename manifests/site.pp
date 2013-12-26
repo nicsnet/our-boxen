@@ -101,6 +101,7 @@ node default {
   include spotify
   include tmux
   include thunderbird
+  include qt
 
   homebrew::tap {
     'nviennot/tmate':
