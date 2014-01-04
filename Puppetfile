@@ -74,3 +74,6 @@ github "mumble",     "1.0.5"
 github "spotify",    "1.0.1"
 github "tmux",       "1.0.2"
 github "qt",         "1.2.1"
+github "alfred",     "1.1.7"
+github "vlc",        "1.0.5"
+

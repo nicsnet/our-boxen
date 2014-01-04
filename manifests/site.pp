@@ -102,6 +102,8 @@ node default {
   include tmux
   include thunderbird
   include qt
+  include alfred
+  include vlc
 
   homebrew::tap {
     'nviennot/tmate':
