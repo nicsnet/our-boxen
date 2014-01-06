@@ -100,11 +100,9 @@ node default {
   include chrome::canary
   include iterm2::stable
   include ctags
-  include janus
   include mongodb
   include redis
   include postgresql
-  include steam
   include adium
   include mumble
   include keyremap4macbook
