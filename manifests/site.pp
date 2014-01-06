@@ -85,6 +85,10 @@ node default {
 
   ### custom modules ###
 
+  class { 'ruby::global':
+    version => '2.0.0'
+  }
+
   homebrew::tap {
     'nviennot/tmate':
     } -> package { 'tmate':
