@@ -85,6 +85,12 @@ node default {
 
   ### custom modules ###
 
+  homebrew::tap {
+    'nviennot/tmate':
+    } -> package { 'tmate':
+    ensure => present,
+  }
+
   include skype
   include chrome
   include chrome::canary
@@ -104,11 +110,6 @@ node default {
   include qt
   include alfred
   include vlc
-
-  homebrew::tap {
-    'nviennot/tmate':
-    } -> package { 'tmate':
-    ensure => present,
-  }
+  include screenhero
 
 }
