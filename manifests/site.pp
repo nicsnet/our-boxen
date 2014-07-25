@@ -66,9 +66,6 @@ node default {
   # node versions
   include nodejs::v0_10
 
-  # default ruby versions
-  include ruby::2_0_0
-
   # common, useful packages
   package {
     [
@@ -84,10 +81,6 @@ node default {
   }
 
   ### custom modules ###
-
-  class { 'ruby::global':
-    version => '2.0.0'
-  }
 
   homebrew::tap {
     'nviennot/tmate':
